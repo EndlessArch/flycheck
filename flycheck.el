@@ -1304,7 +1304,7 @@ just return nil."
   (browse-url "http://www.flycheck.org"))
 
 (define-obsolete-function-alias 'flycheck-info
-  'flycheck-manual "Flycheck 26" "Open the Flycheck manual.")
+  'flycheck-manual "26" "Open the Flycheck manual.")
 
 
 ;;; Utility functions
